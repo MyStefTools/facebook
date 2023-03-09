@@ -1,7 +1,5 @@
 import requests
 import telebot
-from uuid import uuid4
-from user_agent import generate_user_agent
 from telebot import types
 token = "6241047580:AAF0QQn49Bxf17s75wovJ_6dm8Nkx7aVod8"
 bot = telebot.TeleBot(token)
